@@ -1,7 +1,3 @@
 # eclipse-eca-test-repo
-This repo is for testing only.
-dgsdfgsdfgs
-testing 2.
-fsdfsdfsdfs
-2342421
-dfgsdfgsdfgsfgs
+
+This repo is for testing only.fghfghfghfghfgh
